@@ -18,5 +18,5 @@
     <string name="channel_name">Note Notification</string>
     <string name="channel_description">This is a note notification.</string>
 
-    <string name="about">"The note is a very simple to-do list app. You can set notes and then the app reminds you when it’s time. The app has a robust, but shortlist of features. You can even set minutes wise, hourly, daily, weekly, and monthly notes for things like drinking water. The app isn’t as complex as the big names in this space. However, it’s one of the best simple note apps for personal use."</string>
+    <string name="about">"The note is a very simple note making app. You can add multiple notes easily. The app has a robust, but shortlist of features. The app isn’t as complex as the big names in this space. However, it’s one of the best simple note apps for personal use."</string>
 </resources>
