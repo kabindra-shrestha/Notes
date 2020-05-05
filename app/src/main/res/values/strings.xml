@@ -6,17 +6,7 @@
     <string name="action_delete_note">Delete</string>
     <string name="action_about_note">About</string>
 
-    <string name="title">Title</string>
-    <string name="date">Date</string>
-    <string name="time">Time</string>
-    <string name="repeat">Repeat</string>
-    <string name="repeat_off">Off</string>
-    <string name="repeat_no">Repetition Interval </string>
-    <string name="repeat_type">Type of Repetitions</string>
-
-    <string name="channel_id">Note00</string>
-    <string name="channel_name">Note Notification</string>
-    <string name="channel_description">This is a note notification.</string>
+    <string name="title">Content</string>
 
     <string name="about">"The note is a very simple note making app. You can add multiple notes easily. The app has a robust, but shortlist of features. The app isn’t as complex as the big names in this space. However, it’s one of the best simple note apps for personal use."</string>
 </resources>
